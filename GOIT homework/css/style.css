@@ -1,0 +1,90 @@
+.page {
+
+}
+
+.red {
+    font-family: Raleway;
+    font-style: 500;
+    font-size: 26px;
+    line-height: 1.2;
+    color: black; 
+}
+.name {
+    font-family: Raleway;
+    font-style: 500;
+    font-size: 26px;
+    line-height: 1.2;
+}
+
+.site-nav {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.2;
+}
+.auth-nav {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.2;
+}
+.present {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.active {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: center;
+}
+
+
+.priority .qwer {
+    font-family: Roboto;
+    font-style: 500;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.2;
+    text-align: center;
+}
+.tre .qwr {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;  
+}
+
+.tre .abuyt {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.namber {
+    text-align: center
+}
+
+.adres {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+}
+
+.abuyt-ser {
+    color: #757575;
+}
